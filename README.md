@@ -18,7 +18,7 @@ I am a CS Grad Student at Syracuse University 🍊 with a B.S. in Computer Scien
  ✔️Python - Django Framework
 
 
-🕸 I’m currently learning & creating projects in Data Science & Machine Learning.
+🕸 I’m currently learning & creating projects in Mobile Development.
 - 
 📫 How to reach me:
 
