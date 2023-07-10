@@ -1,24 +1,25 @@
-👋 Hello! My name is Joe Zoll.
+👋 hello! welcome to my github, i hope you enjoy your stay
 
-I am a CS Grad Student at Syracuse University 🍊 with a B.S. in Computer Science & 4+ years of programming experience. I take high initiative in crafting several software applications that provide value to others. 
+I am a b.s. in compSci graduate from syracuse university 🍊 with 5+ years of programming experience.
 
 𝐈 𝐡𝐚𝐯𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐢𝐧...👇
 
-📱Mobile App Development
- ✔️Android Studio
- ✔️Kotlin
-📊Data Science
+📱mobile app dev
+ ✔️ios
+ ✔️android studio
+ ✔️kotlin
+📊data science
  ✔️Python - Pandas, Matplotlib, Numpy 
-🎮Game Development
+🎮game dev
  ✔️Python 
  ✔️Unity
  ✔️GameMaker Studio 2
-👨‍💻Web applications
- ✔️HTML / CSS + Javascript
- ✔️Python - Django Framework
+👨‍💻web
+ ✔️Flask, Django
+ ✔️HTML / CSS
 
 
-🕸 I’m currently learning & creating projects in Mobile Development.
+🕸 I’m currently creating in iOS Development.
 - 
 📫 How to reach me:
 
