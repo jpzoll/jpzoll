@@ -2,6 +2,12 @@
 
 i am a b.s. in compSci graduate from syracuse university 🍊 with 5+ years of programming experience.
 
+# Top Skills
+- iOS Development
+  - Swift
+  - SwiftUI
+- Python 
+
 🕸 I’m currently creating in iOS Development.
 - 
 📫 How to reach me:
