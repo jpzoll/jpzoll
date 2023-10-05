@@ -6,10 +6,9 @@ i am a b.s. in compSci graduate from syracuse university 🍊 with 5+ years of p
 - iOS Development
   - Swift
   - SwiftUI
-- Python 
+- Python
 
-🕸 I’m currently creating in iOS Development.
-- 
+   
 📫 How to reach me:
 
 @ jpzoll@syr.edu
