@@ -11,6 +11,8 @@ i am a b.s. in compSci graduate from syracuse university 🍊 with 5+ years of p
 
 @ jpzoll@syr.edu
 
+### Check out my pinned repositories!
+
 <div align="center">
    <img src="https://github.com/jpzoll/jpzoll/assets/55609216/564ed63a-3759-4315-b961-0be5f3b84b34" width="200">
    <img src="https://github.com/jpzoll/jpzoll/assets/55609216/6739e32d-44b1-49da-beb4-6d8e97d9dc71" width="200">
