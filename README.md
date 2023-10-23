@@ -10,3 +10,4 @@ i am a b.s. in compSci graduate from syracuse university 🍊 with 5+ years of p
 📫 How to reach me:
 
 @ jpzoll@syr.edu
+<img width="430" alt="ht2" src="https://github.com/jpzoll/jpzoll/assets/55609216/fbba7041-1270-435b-a7ae-5584071d642d">
