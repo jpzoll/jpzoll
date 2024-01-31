@@ -3,9 +3,8 @@
 i am a b.s. in compSci graduate from syracuse university 🍊 with 5+ years of programming experience.
 
 # Top Skills
-- 🔵iOS
-   - 🟦**Swift**
-   - 🟦**SwiftUI**
+- 🟦**Swift**
+- 🟦**SwiftUI**
 - 🐍**Python**
 
    
